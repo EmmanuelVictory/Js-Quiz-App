@@ -26,7 +26,3 @@ This project helped me practice **HTML structure, CSS styling, and JavaScript lo
 
 ---
 
-## 📂 Project Structure
-
-## from me to yours truly 
-## Victo
