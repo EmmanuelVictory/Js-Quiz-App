@@ -8,16 +8,3 @@ This project helped me practice **HTML structure, CSS styling, and JavaScript lo
 
 ---
 
-## 🚀 Features
-- Multiple-choice quiz questions  
-- Clickable and selectable answer options  
-- Submit button at the end of the quiz  
-- Score calculation based on user selections  
-- Dedicated score/result page  
-- Clean and consistent UI styling  
-- Responsive layout  
-
----
-
-
-
