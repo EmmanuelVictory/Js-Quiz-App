@@ -19,10 +19,5 @@ This project helped me practice **HTML structure, CSS styling, and JavaScript lo
 
 ---
 
-## 🛠️ Technologies Used
-- **HTML** – for structuring the pages  
-- **CSS (Tailwind-ready)** – for styling and layout  
-- **JavaScript** – for quiz logic, interactivity, and score calculation  
 
----
 
