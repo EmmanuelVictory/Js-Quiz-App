@@ -1,4 +1,3 @@
-# JavaScript Quiz Application 🧠✨
 
 
 
