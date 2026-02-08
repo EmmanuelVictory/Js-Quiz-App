@@ -93,13 +93,7 @@ body {
 
 .floating-particles { position: absolute; inset: 0; overflow: hidden; pointer-events: none; }
 
-.particle {
-  position: absolute;
-  border-radius: 9999px;
-  opacity: 0.2;
-  background: hsl(var(--primary));
-  animation: float 15s infinite ease-in-out;
-}
+
 
 @keyframes float {
   0%, 100% { transform: translateY(0) translateX(0) scale(1); }
