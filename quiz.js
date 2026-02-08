@@ -137,7 +137,7 @@ function renderRulesPage() {
           </div>
         </div>
         <div class="flex flex-col sm:flex-row gap-4">
-          <button onclick="handleExit()" class="btn-secondary flex-1">Exit Quiz</button>
+          <button onclick="handleExit()" class="btn-primary flex-1">Exit Quiz</button>
           <button onclick="handleContinue()" class="btn-primary flex-1">Continue →</button>
         </div>
       </div>
