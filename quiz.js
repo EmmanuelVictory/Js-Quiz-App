@@ -138,7 +138,7 @@ function renderRulesPage() {
         </div>
         <div class="flex flex-col sm:flex-row gap-4">
           <button onclick="handleExit()" class="btn-primary flex-1">Exit Quiz</button>
-          <button onclick="handleContinue()" class="btn-primary flex-1">Continue →</button>
+          <button onclick="handleContinue()" class="btn-primary flex-1">Continue</button>
         </div>
       </div>
     </div>
@@ -283,6 +283,7 @@ function processAnswer() {
     currentIndex++;
     selectedAnswer = null;
     timeLeft = 30;
+   timerInterval = null;
     isLocked = false;
     startTimer();
     render();
@@ -325,3 +326,4 @@ function render() {
 
 // Initialize
 render();
+

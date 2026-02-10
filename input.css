@@ -34,6 +34,8 @@ body {
   box-shadow: var(--shadow-card);
 }
 
+
+
 .quiz-option {
   position: relative;
   overflow: hidden;
@@ -107,3 +109,4 @@ body {
 }
 
 .fade-in { animation: fadeIn 0.5s ease-out forwards; }
+
