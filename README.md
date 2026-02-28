@@ -3,7 +3,7 @@
 ```markdown
 # JavaScript Quiz App ❓
 
-Test your knowledge with a fully interactive quiz built using HTML, CSS, and JavaScript. Perfect for learning, practicing, or just having fun!
+Test your knowledge with a fully interactive quiz built using HTML, CSS and JavaScript. Perfect for learning, practicing or just having fun!
 
 
 
@@ -21,7 +21,7 @@ Test your knowledge with a fully interactive quiz built using HTML, CSS, and Jav
 
 
 ## Overview
-This JavaScript Quiz App provides an engaging interface for users to answer multiple-choice questions, receive instant feedback, and view their final score. It’s perfect for learning JavaScript DOM manipulation and working with event listeners.
+This JavaScript Quiz App provides an engaging interface for users to answer multiple-choice questions, receive instant feedback and view their final score. It’s perfect for learning JavaScript DOM manipulation and working with event listeners.
 
 
 
