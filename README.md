@@ -4,7 +4,7 @@
 
 I built this JavaScript Quiz App to strengthen my understanding of DOM manipulation, conditional logic and state management in JavaScript.
 
-Instead of just creating static components, I wanted to build something interactive — an application where user choices directly affect what happens next. This project helped me think more logically about how applications track progress and manage user input step by step.
+Instead of just creating static components, I wanted to build something interactive an application where user choices directly affect what happens next. This project helped me think more logically about how applications track progress and manage user input step by step.
 
 It may look simple on the surface, but building it required careful thinking about structure and flow.
 
@@ -20,7 +20,7 @@ When I started this project, my main goals were:
 - Implement score tracking logic
 - Improve user experience with feedback and flow control
 
-I wanted to build something that feels smooth and intentional — not just functional.
+I wanted to build something that feels smooth and intentional not just functional.
 
 
 
